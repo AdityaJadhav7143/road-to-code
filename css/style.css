@@ -158,5 +158,124 @@ body{
 .fifth-bar{
     text-align: center;
     font-size:50px;
+    margin-bottom: 20px;
     
+}
+#rc{
+                
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow: 0px 2px 2px  blue;
+    
+    margin-top:35px;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+#rc1{
+    
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow:0px 2px 2px  blue;
+    margin-top:35px;
+    padding: 10px;
+    margin-right: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+#rc2{
+
+background-color: white;
+width: 350px;
+height: 300px;
+border: 2px solid black;
+box-shadow:0px 2px 2px  blue;
+margin-top:35px;
+padding: 10px;
+border-radius: 15px;
+} 
+.parent-six-bar{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.parent-six-bar1{
+    display: flex;
+    justify-content:center;
+}
+#rc4{
+                
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow: 0px 2px 2px  blue;
+    
+    margin-top:35px;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+#rc5{
+                
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow: 0px 2px 2px  blue;
+    
+    margin-top:35px;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.info-button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 4px;
+
+
+}
+.p-line{
+    border-bottom: 3px double rgb(89, 200, 247);
+    
+}
+.seven-bar{
+    text-align:center;
+    font-size:50px;
+
+}
+.eight-bar{
+    text-align: center;
+    font-size: 25px;
+    ;
+
+}
+.rtc-team-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:700px ;
+    border-radius: 40px;
+    
+}
+.nine-bar{
+    text-align: center;
+    font-size: 35px;
 }
