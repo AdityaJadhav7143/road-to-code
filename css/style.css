@@ -1,0 +1,162 @@
+.rtc-logo{
+    height: 45px;
+    margin-top: 16px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    
+
+}
+.navbar{
+    display: flex;
+    background-color: whitesmoke;
+    border-bottom: 3px solid grey;
+}
+.rtc-title{
+    font-size:20px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.navbar-buttons{
+    margin-left: 60px;
+    text-decoration: none;
+    
+}
+.navbar-title{
+    margin-left:70px ;
+    margin-top: 30px;
+    padding: 1px;
+    font-size: 18px;
+}
+body{
+    margin: 0px;
+}
+.second-bar-image{
+    height: 450px;
+    margin-left: 80px;
+    margin-top: 10px;
+
+}
+.second-navbar{
+    display: flex;
+
+}
+.second-navbar-text{
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-right: 30px;
+    font-size: 50px;
+}
+#second-navbar-text2{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 12px;
+    margin-right: 50px;
+
+}
+.second-navbar-button1{
+    background-color: yellow;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 120px;
+}
+.second-navbar-button2{
+    color: azure;
+    background-color: black;
+   
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 70px;
+
+}
+.callus-logo{
+    height: 18px;
+}
+.third-bar-title{
+    margin-left: 90px;
+    margin-top: 10px;
+    font-size: 40px;
+    color: rgb(73, 106, 238);
+}
+.third-bar-title1{
+    font-size: 35px;
+    margin-top: 5px;
+    margin-left: 90px;
+
+}
+.fourth-parent-bar{
+    display: flex;
+
+}
+.fourth-box1{
+    background-color: white;
+    border: 1px solid black;
+    box-shadow:1px 1px 1px 1px gray;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    height: 120px;
+    width: 400px;
+    
+}
+.fourth-box2
+{    background-color: white;
+    border: 1px solid black;
+    box-shadow:1px 1px 1px 1px gray;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    height: 120px;
+    width: 400px;
+
+}
+.fourth-box-image{
+
+    height: 430px;
+    position:absolute;
+    right:100px;
+
+    
+}
+.fourth-parent-bar1{
+    display: flex;
+
+}
+.fourth-box3{
+    background-color: white;
+    border: 1px solid black;
+    box-shadow:1px 1px 1px 1px gray;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    height: 120px;
+    width: 400px;
+    
+}
+.fourth-box4
+{    background-color: white;
+    border: 1px solid black;
+    box-shadow:1px 1px 1px 1px gray;
+    margin-left: 40px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    height: 120px;
+    width: 400px;
+}
+.fourth-live{
+    background-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius:5px ;
+    padding: 5px;
+}
+.fourth-live-text{
+    font-size: 25px;
+    padding-left: 10px;
+    margin: 7px;
+} 
+.fifth-bar{
+    text-align: center;
+    font-size:50px;
+    
+}
